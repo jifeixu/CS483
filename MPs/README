@@ -1,1 +1,9 @@
-
+MP0 Device Query
+MP1 Vector Add
+MP2 Basic Matrix-Matrix Multiply
+MP3 Tiled Matrix-Matrix Multiply
+MP4 3D Convolution
+MP5.1 List Reduction
+MP5.2 List Scan
+MP6 Histogram Equalization
+MP7 Sparse Matrix Multiplication
