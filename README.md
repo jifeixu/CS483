@@ -6,9 +6,16 @@ ECE 408, UIUC, Fall 2018
 
 ### MXNETproject
 
-To run project repository on rai:
+Some rai commands:
 
-```./rai -p ../ece408_project/ --queue rai_amd64_ece408```
+```
+./rai -p ../ece408_project/ --queue rai_amd64_ece408
+./rai -p ../ece408_project/ --queue rai_amd64_ece408 --submit=m1
+./rai -p ./ ranking
+./rai -p ./ buildtime
+./rai -p ./ submitted
+./rai -p ./ history
+```
 
 To run nvprof:
 
