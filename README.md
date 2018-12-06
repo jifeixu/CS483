@@ -4,6 +4,8 @@ Applied Parallel Programming - UIUC Fall 2018
 
 ECE 408, UIUC, Fall 2018
 
+### MXNETproject
+
 To run project repository on rai:
 
 ```./rai -p ../ece408_project/ --queue rai_amd64_ece408```
