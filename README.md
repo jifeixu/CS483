@@ -6,6 +6,8 @@ ECE 408, UIUC, Fall 2018
 
 ### MXNETproject
 
+Details: https://github.com/illinois-impact/ece408_project
+
 Some rai commands:
 
 ```
